@@ -1,2 +1,4 @@
 # F2RNet
  F2RNET: A FULL-RESOLUTION REPRESENTATION NETWORK FOR BIOMEDICAL IMAGE SEGMENTATION
+
+![img.jpg](Image\The framework of our proposed method.jpg)
